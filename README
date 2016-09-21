@@ -1,4 +1,6 @@
 This is the source code repository for RE2, a regular expression library.
+Why RE2 rather than PCRE:
+https://en.wikipedia.org/wiki/RE2_(software)#Comparison_to_PCRE
 
 For documentation about how to install and use RE2,
 visit https://github.com/google/re2/.
